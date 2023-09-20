@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/About.svg";
+import image from "../images/About2.jpg";
 
 const imageAltText = "kinda cool";
 
