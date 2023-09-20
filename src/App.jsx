@@ -40,9 +40,9 @@ const App = () => {
     <div id="main">
       <Header />
       <Home name={siteProps.name} title={siteProps.title} />
+      <Education />
       <About />
       <Portfolio />
-      <Education />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
   );
